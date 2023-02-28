@@ -70,6 +70,7 @@ body {
 
   .form {
     display: inline-block;
+    padding-top: 20px;
   }
 
   div {
