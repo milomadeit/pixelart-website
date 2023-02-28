@@ -5,4 +5,4 @@ page 4 - gallery
 
 
 Font - Comuputer
-Colors - Black, Blue, Orange, Yellow
+Colors - Black, Purple/Blue, Orange
